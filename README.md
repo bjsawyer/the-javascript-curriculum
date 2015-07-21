@@ -25,8 +25,8 @@ It is *highly recommended* that your `fork` this repository, keep track of your 
 
 ### Pre-Requisites
 - [X] Install Node.js, so you can run the self-learning tools: [https://iojs.org/](https://iojs.org/) *_Note:_ iojs and Node.js will very soon become the same thing.*
-- [ ] Visit and familiarize yourself with [npm](https://www.npmjs.com/)
-- [ ] Get a good text editor/IDE.
+- [X] Visit and familiarize yourself with [npm](https://www.npmjs.com/)
+- [X] Get a good text editor/IDE.
   - Text Editor
     - [Atom](http://www.atom.io/)
     - [Sublime Text](http://www.sublimetext.com/3)
@@ -46,14 +46,14 @@ The Internet is a vast cache of information and if you know how to navigatge it 
 - Specific questions are far more likely to get answered, than general/generic questions.
 
 ### Absolute Beginners
-- [ ] Open up command line/console. Type in `node`, do you see `> `? If yes *great*, hit `Ctrl+C` to terminate the currently running `node` process. If no, then see `How to ask for help`.
-- [ ] Type in `npm`, do you see `Usage: npm <command>`?
+- [X] Open up command line/console. Type in `node`, do you see `> `? If yes *great*, hit `Ctrl+C` to terminate the currently running `node` process. If no, then see `How to ask for help`.
+- [X] Type in `npm`, do you see `Usage: npm <command>`?
 - You're ready to start learning, using the self guided workshoppers. Good luck! 
-- [ ] Learn how to use Git and GitHub basics.
+- [X] Learn how to use Git and GitHub basics.
   - Run `npm install -g git-it`
   - Then `git-it`
   - Additional help http://jlord.us/git-it/
-- [ ] Learn JavaScript basics. No previous coding experience required.
+- [X] Learn JavaScript basics. No previous coding experience required.
   - Run `npm install -g javascripting`
   - Then `javascripting`
   - Additional info https://github.com/sethvincent/javascripting
